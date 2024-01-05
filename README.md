@@ -1,1 +1,1 @@
-# calendar-activity-mapper
+# activity-mapper
